@@ -39,7 +39,6 @@ const NavigationNonAuth = () =>
   </div>
 
 class NavigationHeader extends Component {
-
   constructor(props, context){
     super(props, context)
     this.updateTag = this.updateTag.bind(this)
